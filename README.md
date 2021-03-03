@@ -1,4 +1,4 @@
-echo-pprof
+echopprof
 ========
 
 A wrapper for [golang web framework echo](https://github.com/labstack/echo) to use `net/http/pprof` easily.
