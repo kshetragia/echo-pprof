@@ -1,4 +1,4 @@
-echopprof
+echo-pprof
 ========
 
 A wrapper for [golang web framework echo](https://github.com/labstack/echo) to use `net/http/pprof` easily.
@@ -10,7 +10,7 @@ The original wrapper has been taken from [sevenNt](http://github.com/sevenNt/ech
 Just include gomodule
 
 ```go
-import github.com/kshetragia/echopprof
+import github.com/kshetragia/echo-pprof
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ package main
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/kshetragia/echopprof"
+	"github.com/kshetragia/echo-pprof"
 )
 
 func main() {
