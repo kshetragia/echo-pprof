@@ -10,7 +10,7 @@ The original wrapper has been taken from [sevenNt](http://github.com/sevenNt/ech
 Just include gomodule
 
 ```go
-import github.com/kshetragia/echo-pprof
+import github.com/kshetragia/echopprof
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ package main
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/kshetragia/echo-pprof"
+	"github.com/kshetragia/echopprof"
 )
 
 func main() {
