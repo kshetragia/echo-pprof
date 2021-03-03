@@ -1,4 +1,4 @@
-module github.com/sevennt/echo-pprof
+module github.com/kshetragia/echo-pprof
 
 go 1.13
 
